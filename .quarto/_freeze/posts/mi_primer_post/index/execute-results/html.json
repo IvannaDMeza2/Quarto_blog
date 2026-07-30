@@ -1,8 +1,8 @@
 {
-  "hash": "44d2b1cb239311bec3912f15d5761cd3",
+  "hash": "780532ef0f0167a18e94ef668ca1200d",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Mi primer análisis en R\"\nauthor: Michael Suárez\ndate: '2026-07-29'\ncategories:\n  - pruebas\n---\n\n# Hola\nsoy un pato aaaa\n\n![](patito.jpg)\n\n\n::: {.cell}\n\n```{.r .cell-code}\n        1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "markdown": "---\ntitle: \"Mi primer análisis en R\"\nauthor: Ivanna Denisse\ndate: '2026-07-29'\ncategories:\n  - pruebas\n---\n\n# Hola\nsoy un pato aaaa\n\n![](patito.jpg)\n\n\n::: {.cell}\n\n```{.r .cell-code}\n        1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
     "supporting": [
       "index_files"
     ],

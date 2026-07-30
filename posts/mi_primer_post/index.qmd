@@ -1,6 +1,6 @@
 ---
 title: "Mi primer análisis en R"
-author: Michael Suárez
+author: Ivanna Denisse
 date: '2026-07-29'
 categories:
   - pruebas
