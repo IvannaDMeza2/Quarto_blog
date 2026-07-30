@@ -1,0 +1,16 @@
+---
+title: "Mi primer análisis en R"
+author: Michael Suárez
+date: '2026-07-29'
+categories:
+  - pruebas
+---
+
+# Hola
+soy un pato aaaa
+
+![](patito.jpg)
+
+```{r}
+        1 + 1
+```

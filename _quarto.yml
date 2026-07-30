@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com
+  title: "blog_taller"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: bluesky
+        href: https://bsky.app/
+
+format:
+  html:
+    theme: [litera, brand, styles.scss]
